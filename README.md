@@ -1,2 +1,2 @@
-# Nghi
+# ok
 web xin loi bn
